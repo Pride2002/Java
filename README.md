@@ -1,1 +1,1 @@
-my Jva script commands
+javascript
